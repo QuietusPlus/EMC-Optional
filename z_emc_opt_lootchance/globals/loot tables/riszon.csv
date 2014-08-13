@@ -1,5 +1,5 @@
 Index;Item name;Quantity Min;Quantity Max;Propability;Respawn;Is mounted
 1;Rusty Steel Sword;1;1;100;0;1
-2;Orens;10;40;70;0;0
-3;Moon Dust;1;2;25;0;0
-4;Beggartick Blossoms;1;3;25;0;0
+2;Orens;10;40;100;0;0
+3;Moon Dust;1;2;100;0;0
+4;Beggartick Blossoms;1;3;100;0;0

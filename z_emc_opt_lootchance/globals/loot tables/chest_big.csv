@@ -1,13 +1,13 @@
 Index;Item name;Quantity Min;Quantity Max;Propability;Respawn
-1;Rusty Steel Sword;1;1;50;0
-2;Aedirnian Steel Sabre;1;1;50;0
-3;Caingornian Steel Sword;1;1;50;0
-4;Temerian Steel Sword;1;1;50;0
-5;Orens;30;55;75;24
-6;Worn Pants;1;1;50;24
-7;Worn Leather Gloves;1;1;50;24
-8;Worn Leather Boots;1;1;50;24
-9;Worn Leather Kneecaps;1;1;50;24
-10;Piece of Wood;2;5;50;12
-11;Iron Ore;1;3;50;24
-12;Coarse Thread;3;6;50;12
+1;Rusty Steel Sword;1;1;100;0
+2;Aedirnian Steel Sabre;1;1;100;0
+3;Caingornian Steel Sword;1;1;100;0
+4;Temerian Steel Sword;1;1;100;0
+5;Orens;30;55;100;24
+6;Worn Pants;1;1;100;24
+7;Worn Leather Gloves;1;1;100;24
+8;Worn Leather Boots;1;1;100;24
+9;Worn Leather Kneecaps;1;1;100;24
+10;Piece of Wood;2;5;100;12
+11;Iron Ore;1;3;100;24
+12;Coarse Thread;3;6;100;12

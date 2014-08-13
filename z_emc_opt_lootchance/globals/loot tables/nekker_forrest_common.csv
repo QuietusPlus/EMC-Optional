@@ -1,8 +1,8 @@
 Index;Item name;Quantity Min;Quantity Max;Propability;Respawn
-0;Nekker Bone Marrow;1;1;20;0
-1;Nekker Liver;1;1;25;0
-2;Nekker Eye;1;2;40;0
-3;Nekker Brain Tissue;1;1;30;0
-4;Nekker Toxin;1;1;50;0
-5;Nekker Talon;1;2;45;0
+0;Nekker Bone Marrow;1;1;100;0
+1;Nekker Liver;1;1;100;0
+2;Nekker Eye;1;2;100;0
+3;Nekker Brain Tissue;1;1;100;0
+4;Nekker Toxin;1;1;100;0
+5;Nekker Talon;1;2;100;0
 6;Nekker Claws;1;1;100;0
