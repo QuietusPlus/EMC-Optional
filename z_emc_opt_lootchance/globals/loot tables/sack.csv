@@ -1,0 +1,23 @@
+Index;Item name;Quantity Min;Quantity Max;Propability;Respawn
+0;Frost Trap;1;1;5;0
+1;Crippling Trap;1;1;5;0
+2;Gray Dye;1;1;25;0
+3;Black Dye;1;1;25;0
+4;Alchemical Impregnation;1;1;5;0
+5;Leather Enhancement;1;1;25;0
+6;Quality Leather Enhancement;1;1;15;0
+7;Steel Plate Enhancement;2;4;5;0
+8;Silver Ore;1;1;10;0
+9;Leather Strap;1;3;75;0
+10;Piece of Fur;1;1;75;0
+11;Piece of Leather;2;2;50;0
+12;Steel Bar;5;10;35;0
+13;Piece of Cloth;1;1;50;0
+14;Hellebore Petals;2;5;10;0
+15;Balisse Fruit;2;4;10;0
+16;Wolfsbane;2;4;10;0
+17;Ergot Seeds;2;4;10;0
+18;Beggartick Blossoms;2;4;10;0
+19;Hop Umbels;2;4;10;0
+20;Berbercane Fruit;2;4;10;0
+21;Sewant Mushroom;2;4;10;

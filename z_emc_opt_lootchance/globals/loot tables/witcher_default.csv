@@ -1,0 +1,86 @@
+Index;Item name;Quantity Min;Quantity Max;Propability;Respawn;Is mounted
+1;Rusty Steel Sword;1;1;100;0;1
+2;Orens;1000;1000;100;0;0
+3;Witcher Bare Fists;1;1;100;0;0
+4;Leather Jacket;1;1;100;0;1
+5;Leather Trousers;1;1;100;0;1
+6;Leather Boots;1;1;100;0;1
+7;Leather Gloves;1;1;100;0;1
+8;Explosive Trap;10;10;100;0;0
+9;Freezing Trap;10;10;100;0;0
+10;Grappling Trap;10;10;100;0;0
+11;Crippling Trap;10;10;100;0;0
+12;Rage Trap;10;10;100;0;0
+13;Grapeshot;10;10;100;0;0
+14;Puffball;10;10;100;0;0
+15;Nekker Eye;10;10;100;0;0
+16;Nekker Liver;10;10;100;0;0
+17;Dragon Dream;10;10;100;0;0
+18;Piece of Cloth;100;100;100;0;0
+19;Recipe: Cat;1;1;100;0;0
+20;Piece of Leathe;100;100;100;0;0
+21;Leather Strap;100;100;100;0;0
+22;Piece of Leather;50;50;100;0;0
+23;Iron Ore;100;100;100;0;0
+24;Water Bomb;10;10;100;0;0
+25;Screamer;10;10;100;0;0
+26;Target Dummy Area;1;1;100;0;0
+27;Hardened Fabric Enhancement;1;1;100;0;0
+28;"Leather Enhancement""";1;1;100;0;0
+29;Brown Oil;1;1;100;0;0
+30;Cat;10;10;100;0;0
+31;Tawny Owl;10;10;100;0;0
+32;Blizzard;10;10;100;0;0
+33;Kiss;10;10;100;0;0
+34;Marten;10;10;100;0;0
+35;Maribor Forest;10;10;100;0;0
+36;Shrike;10;10;100;0;0
+37;Oriole;10;10;100;0;0
+38;Wolf;10;10;100;0;0
+39;White Ghoul;10;10;100;0;0
+40;Swallow;10;10;100;0;0
+41;Mutagen of Power;2;2;100;0;0
+42;Mutagen of Amplification;2;2;100;0;0
+43;Mutagen of Range;2;2;100;0;0
+44;Mutagen of Critical Effect;2;2;100;0;0
+45;Mutagen of Vitality;2;2;100;0;0
+46;Mutagen of Strength;1;3;100;0;0
+47;Mutagen of Concentration;1;3;100;0;0
+48;Major Mutagen of Vitality;1;3;100;0;0
+49;Mutagen of Insanity;1;3;100;0;0
+50;Major Mutagen of Insanity;1;3;100;0;0
+51;Minor Mutagen of Vitality;1;3;100;0;0
+52;Rune of Sun;2;2;100;0;0
+53;Rune of Moon;2;2;100;0;0
+54;Rune of Earth;2;2;100;0;0
+55;Rune of Fire;2;2;100;0;0
+56;Hardened Fabric Enhancement;1;1;100;0;0
+57;Leather Enhancement;1;1;100;0;0
+58;Hardened Leather Enhancement;1;1;100;0;0
+59;Reinforced Leather Enhancement;1;1;100;0;0
+60;Quality Leather Enhancement;1;1;100;0;0
+61;Studded Leather Enhancement;1;1;100;0;0
+62;Steel Plate Enhancement;1;1;100;0;0
+63;Amethyst Armor Enhancement;1;1;100;0;0
+64;Diamond Armor Enhancement;1;1;100;0;0
+65;Elanie Bleidd;1;1;100;0;0
+66;Dhu Bleidd;1;1;100;0;0
+67;Quaility Steel Plate Enhancement;1;1;100;0;0
+68;Vrans Armor Enhancement;1;1;100;0;0
+69;Tentadrake Armor Enhancement;1;1;100;0;0
+70;Endriag Armor Enhancement;1;1;100;0;0
+71;Dwarven Armor Enhancement;1;1;100;0;0
+72;Elven Armor Enhancement;1;1;100;0;0
+73;Mystic Armor Enhancement;1;1;100;0;0
+74;Mail Armor Enhancement;1;1;100;0;0
+75;Runic Armor Enhancement;1;1;100;0;0
+76;Armor Enhancement;1;1;100;0;0
+77;Brown Oil;1;1;100;0;0
+78;Hangman Venom;1;1;100;0;0
+79;Jagger;1;1;100;0;0
+80;Cinfrid Oil;1;1;100;0;0
+81;Specter Grease;1;1;100;0;0
+82;Schematic: Kaedwenian Leather Armor;1;1;100;0;0
+83;Schematic: Draug Armor;1;1;100;0;0
+84;Schematic: Quality Leather Jacket;;2;100;0;0
+85;Schematic: Mystic Leather Gloves;;1;100;0;0
